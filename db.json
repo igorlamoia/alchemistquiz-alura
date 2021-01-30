@@ -4,30 +4,99 @@
     "description": "Teste os seus conhecimentos sobre Full Metal Alchemist",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media.giphy.com/media/SNt3zCFa8JIGc/giphy.gif",
+        "title": "'Nunca se esqueça!' Esquecer do que mesmo?",
+        "description": "Essa marcação foi feita no dia de uma escolha importante de Ed e Al.",
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Dia em que atearam fogo à própria casa. Fazendo a escolha de não ter para onde de voltar",
+          "Dia que se tornaram alquimistas federais",
+          "Dia em que tentaram transmutar a alma da mãe e criaram um Homunculo"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/f7xM2IEBs8zeM/giphy.gif",
+        "title": "O que mais irrita Edward Elric",
+        "description": "Fica Full Pistola o alquimista",
+        "answer": 1,
+        "alternatives": [
+          "Ser chamado de cão do exército",
+          "Ser chamado de baixinho",
+          "Acharem que o “Do aço” é o seu irmão"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/icHqeLR0O7Xa0/giphy.gif",
+        "title": "O que a professora dos irmãos Elric queria ensiná-los, deixando-os em uma ilha deserta por uma semana?",
+        "description": "Largados e pelados",
+        "answer": 2,
+        "alternatives": [
+          "Companheirismo e união",
+          "Dar valor as pequenas coisas da vida (conforto, alimento, segurança)",
+          "Um é tudo, tudo é um. O tudo é o mundo, o um sou eu! só com ”uns” juntos, o ”tudo” pode existir"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/NOHzmFYti2A6c/giphy.gif",
+        "title": "Marque a alternativa falsa:",
+        "description": "“Na natureza nada se cria, nada se perde, tudo se transforma”",
+        "answer": 3,
+        "alternatives": [
+          "Não é possível produzir algo partindo do nada",
+          "Se alguém quiser obter algo ele precisa pagar um preço equivalente",
+          "Nada pode ser obtido sem sacrifício",
+          "A alquimia é mais que uma ciência"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/12bE9SHGZYR85O/giphy.gif",
+        "title": "O que são Homunculos?",
+        "description": "Vaso ruim não quebra †",
         "answer": 0,
         "alternatives": [
-          "background: linear-gradient(#e66465, #9198e5);",
-          "background: gradient(#e66465, #9198e5);"
+          "São tentativas de humanos. Quase perfeitos, porém sem alma ",
+          "Humanos com imortalidade",
+          "Seres criados por Deus"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/LhlYFolLEbyVy/giphy.gif",
+        "title": "O que é um tabu na alquimia?",
+        "description": "Edward que o diga, shorastê :(",
+        "answer": 0,
+        "alternatives": [
+          "Realizar uma transmutação humana",
+          "Transmutar pedra em ouro",
+          "Transmutar pessoas vivas em quimeras",
+          "Transmutar uma alma"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13oDNx11SKUKha/giphy.gif",
+        "title": "Pedra Filosofal",
+        "description": "Criada?",
+        "answer": 1,
+        "alternatives": [
+          "Somente Deus/verdade pode criar",
+          "Criada através do sacrifício de muitos humanos",
+          "Juntando a alma de alguns humanos com magia alquimica"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/M0HnVdxdxZbPO/giphy.gif",
+        "title": "Só alquimistas que viram 'A verdade' ganham uma habilidade incomum",
+        "description": "“Eu sou o que você chama de Mundo, ou então Deus, ou então Tudo, ou então o Único, Eu também, e sou Você”",
+        "answer": 1,
+        "alternatives": [
+          "Imortalidade",
+          "Transmutar, sem círculo de transmutação",
+          "Criar Pedras Filosofais"
         ]
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
